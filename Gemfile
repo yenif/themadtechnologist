@@ -3,6 +3,7 @@ source 'http://gemcutter.org'
 source 'http://gems.github.com'
 
 
+gem "thin"
 gem "rails", "3.0.0.beta"
 
 ## Bundle edge rails:
