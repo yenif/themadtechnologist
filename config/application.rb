@@ -10,7 +10,7 @@ require "rails/test_unit/railtie"
 # Auto-require default libraries and those for the current Rails environment.
 Bundler.require :default, Rails.env
 
-module Themadtechnologist
+module TheMadTechnologist
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
